@@ -6,6 +6,9 @@ Forked from: kuzia15
 Installing:
 git clone https://github.com/soul-proger/blackrussia-new-changeip.git
 
+Preparing:
+Change your ip address and port in game/hooks.cpp
+
 Building:
 1. Create folder "jni"
 2. Move all files from archive to folder "jni"
